@@ -1,31 +1,12 @@
-# INCENTIVE GAMES
 
-Hi! This is a Javascript test where you will code some functions to prove what you are made of (nothing too complicated or long).
+## I Have used NODE.JS v20.12.0 to log the tests to the console while completing the JS coding challenge
 
-Use ES6 if you are familiar with it.
+## Code SandBox for react.js coding challenge. 
 
-## HOW TO DO IT
 
-Simply clone the repository and edit the index.js file. 
+## LINK for REACT coding challenge TEST 2 on Code Sandbox below:
+## URL: "https://codesandbox.io/p/sandbox/test-react-jjy77w?from-embed=
 
-Please send your solution or any question/feedback to jobs@incentivegames.com
 
-Good luck!
 
-## EXAMPLE
-
-```
-const mySolution = () => {
-  const n = 6 + 4;
-  console.log(`The solution is ${n}`);
-}
-
-// Please run the file to see the results
-mySolution();
-```
-
-## BONUS POINTS
-
-If you want to prove your React skills too, there is also a test called reactTest.tsx.
-
-All you need to do is edit that file and add the code the TestComponent needs, and send it to us. There is no need of installing anything or rendering the component.
+## Please let me know if you have any question and I look forward to hearing back from you 
