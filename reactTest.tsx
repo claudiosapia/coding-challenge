@@ -97,7 +97,7 @@ export const Test2Component = (props: ITest2ComponentProps) => {
           {props.name}
         </p>
       ) : (
-        // else -  18 return name in blue
+        // else -  18 return name in red
         <p style={{ color: "red" }}>{props.name} </p>
       )}
     </div>
